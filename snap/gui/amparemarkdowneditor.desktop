@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ampare Markdown Editor
+Comment=Simple Markdown Editor Application For Linux
+Exec=amparemarkdowneditor
+Terminal=false
+Type=Application
+Icon=${SNAP}/meta/gui/icon.png
+Categories=Utility;
